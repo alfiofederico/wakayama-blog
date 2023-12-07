@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Wakayama Blog</title>
-    <link>https://example.org/authors/</link>
+    <link>https://thriving-trifle-8d4074.netlify.app/authors/</link>
     <description>Recent content in Authors on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thriving-trifle-8d4074.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Federico</title>
-      <link>https://example.org/authors/federico/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/authors/federico/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/authors/federico/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/authors/federico/</guid>
       <description></description>
     </item>
     <item>
       <title>Kai</title>
-      <link>https://example.org/authors/kai/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/authors/kai/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/authors/kai/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/authors/kai/</guid>
       <description></description>
     </item>
   </channel>

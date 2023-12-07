@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Federico on Wakayama Blog</title>
-    <link>https://example.org/authors/federico/</link>
+    <link>https://thriving-trifle-8d4074.netlify.app/authors/federico/</link>
     <description>Recent content in Federico on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://example.org/authors/federico/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thriving-trifle-8d4074.netlify.app/authors/federico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Fifth Post</title>
-      <link>https://example.org/my-fifth-post/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/my-fifth-post/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/my-fifth-post/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/my-fifth-post/</guid>
       <description></description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/my-first-post/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/my-first-post/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/my-first-post/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/my-first-post/</guid>
       <description>Test ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest ContentTest Content</description>
     </item>
     <item>
       <title>My Fourth post</title>
-      <link>https://example.org/my-fourth-post/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/my-fourth-post/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/my-fourth-post/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/my-fourth-post/</guid>
       <description></description>
     </item>
     <item>
       <title>My Third Post</title>
-      <link>https://example.org/my-third-post/</link>
+      <link>https://thriving-trifle-8d4074.netlify.app/my-third-post/</link>
       <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://example.org/my-third-post/</guid>
+      <guid>https://thriving-trifle-8d4074.netlify.app/my-third-post/</guid>
       <description></description>
     </item>
   </channel>
