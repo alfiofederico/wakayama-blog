@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Wakayama Blog'
+
+paginate = 4
+
+[params]
+  description = "Wakayama Blog, News, Event and People"
+  dateFormat = "January 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
