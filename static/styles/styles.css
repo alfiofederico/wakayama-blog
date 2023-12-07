@@ -62,13 +62,7 @@ a{
 }
 
 .searchButton{
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  background-color: var(--bgSoft);
-  color: var(--textSoft);
-  padding:10px 15px;
-  border-radius: 15px;
+  display: none
 }
 
 .toggle{
