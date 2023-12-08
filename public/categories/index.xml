@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Wakayama Blog</title>
-    <link>https://thriving-trifle-8d4074.netlify.app/categories/</link>
+    <link>http://wakayamablog.com/categories/</link>
     <description>Recent content in Categories on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://thriving-trifle-8d4074.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wakayamablog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>general</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/categories/general/</link>
+      <link>http://wakayamablog.com/categories/general/</link>
       <pubDate>Fri, 08 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/categories/general/</guid>
+      <guid>http://wakayamablog.com/categories/general/</guid>
       <description></description>
     </item>
   </channel>

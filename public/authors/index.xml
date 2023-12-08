@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Wakayama Blog</title>
-    <link>https://thriving-trifle-8d4074.netlify.app/authors/</link>
+    <link>http://wakayamablog.com/authors/</link>
     <description>Recent content in Authors on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://thriving-trifle-8d4074.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wakayamablog.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Federico</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/authors/federico/</link>
+      <link>http://wakayamablog.com/authors/federico/</link>
       <pubDate>Fri, 08 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/authors/federico/</guid>
+      <guid>http://wakayamablog.com/authors/federico/</guid>
       <description></description>
     </item>
   </channel>

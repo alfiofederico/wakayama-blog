@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>general on Wakayama Blog</title>
-    <link>https://thriving-trifle-8d4074.netlify.app/categories/general/</link>
+    <link>http://wakayamablog.com/categories/general/</link>
     <description>Recent content in general on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://thriving-trifle-8d4074.netlify.app/categories/general/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wakayamablog.com/categories/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Wakayama Blog</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/welcome-to-wakayama-blog/</link>
+      <link>http://wakayamablog.com/welcome-to-wakayama-blog/</link>
       <pubDate>Fri, 08 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/welcome-to-wakayama-blog/</guid>
+      <guid>http://wakayamablog.com/welcome-to-wakayama-blog/</guid>
       <description>Welcome to Wakayama Blog – Your Ultimate Guide to Everything Wakayama! Hello, fellow enthusiasts of Wakayama!&#xA;I am thrilled to welcome you to the Wakayama Blog, your go-to destination for all the amazing experiences this beautiful region has to offer. Whether you&amp;rsquo;re a local, a frequent visitor, or someone planning their first trip to Wakayama, this blog is dedicated to capturing the essence of this enchanting place.&#xA;What to Expect: Travel Adventures: Explore hidden gems, historical sites, and breathtaking landscapes as we embark on exciting travel adventures throughout Wakayama.</description>
     </item>
   </channel>
