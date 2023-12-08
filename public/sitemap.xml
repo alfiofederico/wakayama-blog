@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://wakayamablog.com/authors/</loc>
+    <loc>https://wakayamablog.com/authors/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url><url>
-    <loc>http://wakayamablog.com/categories/</loc>
+    <loc>https://wakayamablog.com/categories/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url><url>
-    <loc>http://wakayamablog.com/authors/federico/</loc>
+    <loc>https://wakayamablog.com/authors/federico/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url><url>
-    <loc>http://wakayamablog.com/categories/general/</loc>
+    <loc>https://wakayamablog.com/categories/general/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url><url>
-    <loc>http://wakayamablog.com/</loc>
+    <loc>https://wakayamablog.com/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url><url>
-    <loc>http://wakayamablog.com/welcome-to-wakayama-blog/</loc>
+    <loc>https://wakayamablog.com/welcome-to-wakayama-blog/</loc>
     <lastmod>2023-12-08T15:20:13+09:00</lastmod>
   </url>
 </urlset>
