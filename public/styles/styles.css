@@ -277,6 +277,10 @@ time {
   margin: 20px 0px;
 }
 
+.singleContent h1 {
+  line-height: 42px;
+}
+
 .singleContent img{
   width: 100%;
   object-fit: cover;

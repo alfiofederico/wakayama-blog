@@ -6,41 +6,13 @@
     <description>Recent content in Categories on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 15:20:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 15:20:13 +0900</lastBuildDate>
     <atom:link href="https://thriving-trifle-8d4074.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>culture</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/categories/culture/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/categories/culture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>event</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/categories/event/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/categories/event/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>food</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/categories/food/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/categories/food/</guid>
-      <description></description>
-    </item>
     <item>
       <title>general</title>
       <link>https://thriving-trifle-8d4074.netlify.app/categories/general/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
+      <pubDate>Fri, 08 Dec 2023 15:20:13 +0900</pubDate>
       <guid>https://thriving-trifle-8d4074.netlify.app/categories/general/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>travel</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/categories/travel/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
