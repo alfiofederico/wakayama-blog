@@ -42,6 +42,6 @@ Having been an alumni of Antonio Starita's famed pizzeria, Yoshi brings the esse
 
 In conclusion, Il Ritrovo stands as a testament to the global nature of culinary artistry. In the heart of Wakayama, this pizzeria not only serves delectable Neapolitan pizzas but also embodies the cultural fusion that defines modern gastronomy. So, if you find yourself in Wakayama and crave a slice of Napoli, make sure to visit Il Ritrovo – where Japanese precision meets Neapolitan passion.
 
-For more information, you can check the official facebook page at [https://www.facebook.com/IlRitrovoWakayama](https://www.facebook.com/IlRitrovoWakayama){:target="_blank"}
+For more information, you can check the official facebook page at [https://www.facebook.com/IlRitrovoWakayama](https://www.facebook.com/IlRitrovoWakayama)
 
 [Federico]

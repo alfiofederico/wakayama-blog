@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>travel on Wakayama Blog</title>
-    <link>https://thriving-trifle-8d4074.netlify.app/categories/travel/</link>
+    <link>https://wakayamablog.com/categories/travel/</link>
     <description>Recent content in travel on Wakayama Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Dec 2023 15:20:13 +0900</lastBuildDate>
-    <atom:link href="https://thriving-trifle-8d4074.netlify.app/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Dec 2023 15:20:13 +0900</lastBuildDate>
+    <atom:link href="https://wakayamablog.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>https://thriving-trifle-8d4074.netlify.app/my-second-post/</link>
-      <pubDate>Wed, 06 Dec 2023 15:20:13 +0900</pubDate>
-      <guid>https://thriving-trifle-8d4074.netlify.app/my-second-post/</guid>
-      <description></description>
+      <title>Kumano Kodo Winery Guest House</title>
+      <link>https://wakayamablog.com/kumano-kodo-winery-guest-house/</link>
+      <pubDate>Sat, 09 Dec 2023 15:20:13 +0900</pubDate>
+      <guid>https://wakayamablog.com/kumano-kodo-winery-guest-house/</guid>
+      <description>From Verona to Tanabe, Wakayama: A Culinary Journey Rooted in Nature &amp;ldquo;My dream is to serve meals made with vegetables and fresh ingredients that I have grown myself to my customers, and have them enjoy them.&amp;rdquo;&#xA;Meet the visionary chef who turned this dream into a reality. Hailing from Verona, Italy, and now calling the most rural Wakayama home, our chef&amp;rsquo;s journey is a testament to the pursuit of culinary excellence and a deep connection to nature.</description>
+    </item>
+    <item>
+      <title>Shirahama</title>
+      <link>https://wakayamablog.com/shirahama/</link>
+      <pubDate>Sat, 09 Dec 2023 15:20:13 +0900</pubDate>
+      <guid>https://wakayamablog.com/shirahama/</guid>
+      <description>Discovering Tranquility in Shirahama, Japan Nestled along the scenic coastline of the Kii Peninsula, Shirahama is a hidden gem that effortlessly blends natural beauty with cultural charm. This seaside town, renowned for its pristine beaches and rejuvenating hot springs, offers a perfect escape from the hustle and bustle of modern life.&#xA;1. Sun, Sand, and Serenity: Shirahama&amp;rsquo;s Beaches Shirahama is synonymous with its stunning white sand beaches, notably the Shirahama Beach.</description>
     </item>
   </channel>
 </rss>
